@@ -1,0 +1,4707 @@
+{
+  "apple_pie": {
+    "dish_id": "apple_pie",
+    "dish_name": "Apple Pie",
+    "cuisine": "International",
+    "dish_type": "baked",
+    "description": "A delicious International baked dish that's perfect for any occasion.",
+    "ingredients": [
+      "apples",
+      "flour",
+      "sugar",
+      "butter",
+      "cinnamon",
+      "lemon juice",
+      "nutmeg"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 21,
+    "cook_time_minutes": 65,
+    "total_time_minutes": 86,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 367,
+      "protein_g": 2.7,
+      "carbohydrates_g": 44.0,
+      "fat_g": 20.5,
+      "fiber_g": 4.4,
+      "sugar_g": 13.2,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": false,
+      "low_carb": false
+    },
+    "tags": [
+      "Main Course",
+      "baked",
+      "International"
+    ],
+    "popularity_score": 0.94,
+    "spice_level": 1,
+    "best_season": "Autumn"
+  },
+  "baby_back_ribs": {
+    "dish_id": "baby_back_ribs",
+    "dish_name": "Baby Back Ribs",
+    "cuisine": "International",
+    "dish_type": "grilled",
+    "description": "Traditional International grilled made with authentic ingredients and flavors.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "cream",
+      "onion",
+      "herbs",
+      "cheese"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 11,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 46,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 418,
+      "protein_g": 7.0,
+      "carbohydrates_g": 3.4,
+      "fat_g": 42.5,
+      "fiber_g": 0.3,
+      "sugar_g": 1.0,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "grilled",
+      "Main Course",
+      "International"
+    ],
+    "popularity_score": 0.6,
+    "spice_level": 1,
+    "best_season": "Winter"
+  },
+  "baklava": {
+    "dish_id": "baklava",
+    "dish_name": "Baklava",
+    "cuisine": "Middle Eastern",
+    "dish_type": "main",
+    "description": "Traditional Middle Eastern main made with authentic ingredients and flavors.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "herbs",
+      "lemon",
+      "garlic",
+      "tomato"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 263,
+      "protein_g": 1.8,
+      "carbohydrates_g": 9.2,
+      "fat_g": 25.2,
+      "fiber_g": 0.9,
+      "sugar_g": 2.8,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": true,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "Middle Eastern"
+    ],
+    "popularity_score": 0.92,
+    "spice_level": 1,
+    "best_season": "Autumn"
+  },
+  "beef_carpaccio": {
+    "dish_id": "beef_carpaccio",
+    "dish_name": "Beef Carpaccio",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "A delicious International main dish that's perfect for any occasion.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "lemon",
+      "cheese",
+      "spices",
+      "tomato"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 326,
+      "protein_g": 6.5,
+      "carbohydrates_g": 1.3,
+      "fat_g": 33.3,
+      "fiber_g": 0.1,
+      "sugar_g": 0.4,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.89,
+    "spice_level": 0,
+    "best_season": "Spring"
+  },
+  "beef_tartare": {
+    "dish_id": "beef_tartare",
+    "dish_name": "Beef Tartare",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Classic main recipe from International with a modern twist.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "spices",
+      "lemon",
+      "herbs"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 221,
+      "protein_g": 0.0,
+      "carbohydrates_g": 0.0,
+      "fat_g": 25.0,
+      "fiber_g": 0.0,
+      "sugar_g": 0.0,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": true,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.63,
+    "spice_level": 0,
+    "best_season": "Spring"
+  },
+  "beet_salad": {
+    "dish_id": "beet_salad",
+    "dish_name": "Beet Salad",
+    "cuisine": "International",
+    "dish_type": "salad",
+    "description": "Popular salad from International cuisine, known for its rich taste and aroma.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "spices",
+      "butter",
+      "lemon",
+      "garlic"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 438,
+      "protein_g": 1.8,
+      "carbohydrates_g": 8.3,
+      "fat_g": 45.4,
+      "fiber_g": 0.8,
+      "sugar_g": 2.5,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "salad",
+      "International"
+    ],
+    "popularity_score": 0.87,
+    "spice_level": 0,
+    "best_season": "Summer"
+  },
+  "beignets": {
+    "dish_id": "beignets",
+    "dish_name": "Beignets",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Hearty International main that's both comforting and flavorful.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "spices",
+      "lime"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 221,
+      "protein_g": 0.0,
+      "carbohydrates_g": 0.0,
+      "fat_g": 25.0,
+      "fiber_g": 0.0,
+      "sugar_g": 0.0,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": true,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.68,
+    "spice_level": 1,
+    "best_season": "Summer"
+  },
+  "bibimbap": {
+    "dish_id": "bibimbap",
+    "dish_name": "Bibimbap",
+    "cuisine": "Korean",
+    "dish_type": "main",
+    "description": "Classic main recipe from Korean with a modern twist.",
+    "ingredients": [
+      "rice",
+      "beef",
+      "vegetables",
+      "egg",
+      "gochujang",
+      "sesame oil"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 355,
+      "protein_g": 10.4,
+      "carbohydrates_g": 7.3,
+      "fat_g": 32.1,
+      "fiber_g": 0.7,
+      "sugar_g": 2.2,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": false,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Beef",
+      "Main Course",
+      "Korean",
+      "main"
+    ],
+    "popularity_score": 0.69,
+    "spice_level": 1,
+    "best_season": "Spring"
+  },
+  "bread_pudding": {
+    "dish_id": "bread_pudding",
+    "dish_name": "Bread Pudding",
+    "cuisine": "International",
+    "dish_type": "dessert",
+    "description": "Traditional International dessert made with authentic ingredients and flavors.",
+    "ingredients": [
+      "flour",
+      "sugar",
+      "butter",
+      "eggs",
+      "vanilla",
+      "garlic",
+      "cream",
+      "herbs"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 60,
+    "total_time_minutes": 80,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 529,
+      "protein_g": 8.1,
+      "carbohydrates_g": 53.2,
+      "fat_g": 32.6,
+      "fiber_g": 5.3,
+      "sugar_g": 16.0,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": false
+    },
+    "tags": [
+      "Dessert",
+      "dessert",
+      "International"
+    ],
+    "popularity_score": 0.8,
+    "spice_level": 0,
+    "best_season": "Spring"
+  },
+  "breakfast_burrito": {
+    "dish_id": "breakfast_burrito",
+    "dish_name": "Breakfast Burrito",
+    "cuisine": "Mexican",
+    "dish_type": "sandwich",
+    "description": "Popular sandwich from Mexican cuisine, known for its rich taste and aroma.",
+    "ingredients": [
+      "tortilla",
+      "eggs",
+      "potatoes",
+      "cheese",
+      "sausage",
+      "salsa"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 158,
+      "protein_g": 10.0,
+      "carbohydrates_g": 4.9,
+      "fat_g": 11.0,
+      "fiber_g": 0.5,
+      "sugar_g": 1.5,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "Mexican",
+      "sandwich"
+    ],
+    "popularity_score": 0.89,
+    "spice_level": 1,
+    "best_season": "Autumn"
+  },
+  "bruschetta": {
+    "dish_id": "bruschetta",
+    "dish_name": "Bruschetta",
+    "cuisine": "Italian",
+    "dish_type": "appetizer",
+    "description": "Popular appetizer from Italian cuisine, known for its rich taste and aroma.",
+    "ingredients": [
+      "bread",
+      "tomatoes",
+      "garlic",
+      "basil",
+      "olive oil",
+      "balsamic vinegar"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 329,
+      "protein_g": 4.1,
+      "carbohydrates_g": 21.5,
+      "fat_g": 26.0,
+      "fiber_g": 2.1,
+      "sugar_g": 6.4,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": true,
+      "gluten_free": false,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "Italian",
+      "appetizer"
+    ],
+    "popularity_score": 0.8,
+    "spice_level": 1,
+    "best_season": "Autumn"
+  },
+  "caesar_salad": {
+    "dish_id": "caesar_salad",
+    "dish_name": "Caesar Salad",
+    "cuisine": "International",
+    "dish_type": "salad",
+    "description": "Traditional International salad made with authentic ingredients and flavors.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "onion",
+      "tomato"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 236,
+      "protein_g": 0.5,
+      "carbohydrates_g": 3.3,
+      "fat_g": 25.1,
+      "fiber_g": 0.3,
+      "sugar_g": 1.0,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": true,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "salad",
+      "International"
+    ],
+    "popularity_score": 0.77,
+    "spice_level": 1,
+    "best_season": "Summer"
+  },
+  "cannoli": {
+    "dish_id": "cannoli",
+    "dish_name": "Cannoli",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Popular main from International cuisine, known for its rich taste and aroma.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "butter",
+      "spices",
+      "garlic",
+      "cheese"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 538,
+      "protein_g": 8.1,
+      "carbohydrates_g": 8.6,
+      "fat_g": 53.6,
+      "fiber_g": 0.9,
+      "sugar_g": 2.6,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.82,
+    "spice_level": 0,
+    "best_season": "Spring"
+  },
+  "caprese_salad": {
+    "dish_id": "caprese_salad",
+    "dish_name": "Caprese Salad",
+    "cuisine": "International",
+    "dish_type": "salad",
+    "description": "Traditional International salad made with authentic ingredients and flavors.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "spices",
+      "lemon"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 221,
+      "protein_g": 0.0,
+      "carbohydrates_g": 0.0,
+      "fat_g": 25.0,
+      "fiber_g": 0.0,
+      "sugar_g": 0.0,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": true,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "salad",
+      "International"
+    ],
+    "popularity_score": 0.87,
+    "spice_level": 1,
+    "best_season": "Summer"
+  },
+  "carrot_cake": {
+    "dish_id": "carrot_cake",
+    "dish_name": "Carrot Cake",
+    "cuisine": "International",
+    "dish_type": "dessert",
+    "description": "Authentic International dessert that will transport your taste buds.",
+    "ingredients": [
+      "flour",
+      "sugar",
+      "butter",
+      "eggs",
+      "vanilla",
+      "cream",
+      "cheese"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 60,
+    "total_time_minutes": 80,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 592,
+      "protein_g": 12.8,
+      "carbohydrates_g": 45.3,
+      "fat_g": 40.8,
+      "fiber_g": 4.5,
+      "sugar_g": 13.6,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": false
+    },
+    "tags": [
+      "Dessert",
+      "dessert",
+      "International"
+    ],
+    "popularity_score": 0.86,
+    "spice_level": 0,
+    "best_season": "Autumn"
+  },
+  "ceviche": {
+    "dish_id": "ceviche",
+    "dish_name": "Ceviche",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Classic main recipe from International with a modern twist.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "cream",
+      "lime",
+      "butter",
+      "onion"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 496,
+      "protein_g": 1.0,
+      "carbohydrates_g": 3.1,
+      "fat_g": 54.5,
+      "fiber_g": 0.3,
+      "sugar_g": 0.9,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.73,
+    "spice_level": 0,
+    "best_season": "Spring"
+  },
+  "chawal": {
+    "dish_id": "chawal",
+    "dish_name": "Chawal",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Traditional International main made with authentic ingredients and flavors.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "butter",
+      "garlic",
+      "tomato"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 442,
+      "protein_g": 2.1,
+      "carbohydrates_g": 9.2,
+      "fat_g": 45.4,
+      "fiber_g": 0.9,
+      "sugar_g": 2.8,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.93,
+    "spice_level": 0,
+    "best_season": "Autumn"
+  },
+  "cheese_plate": {
+    "dish_id": "cheese_plate",
+    "dish_name": "Cheese Plate",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Classic main recipe from International with a modern twist.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "spices",
+      "garlic",
+      "cream",
+      "lime"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 344,
+      "protein_g": 2.1,
+      "carbohydrates_g": 8.9,
+      "fat_g": 34.4,
+      "fiber_g": 0.9,
+      "sugar_g": 2.7,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.92,
+    "spice_level": 1,
+    "best_season": "Autumn"
+  },
+  "cheesecake": {
+    "dish_id": "cheesecake",
+    "dish_name": "Cheesecake",
+    "cuisine": "International",
+    "dish_type": "dessert",
+    "description": "Hearty International dessert that's both comforting and flavorful.",
+    "ingredients": [
+      "cream cheese",
+      "sugar",
+      "eggs",
+      "graham crackers",
+      "butter",
+      "vanilla"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 60,
+    "total_time_minutes": 80,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 415,
+      "protein_g": 9.7,
+      "carbohydrates_g": 25.6,
+      "fat_g": 31.2,
+      "fiber_g": 2.6,
+      "sugar_g": 7.7,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Dessert",
+      "dessert",
+      "International"
+    ],
+    "popularity_score": 0.95,
+    "spice_level": 1,
+    "best_season": "Spring"
+  },
+  "chocolate_cake": {
+    "dish_id": "chocolate_cake",
+    "dish_name": "Chocolate Cake",
+    "cuisine": "International",
+    "dish_type": "dessert",
+    "description": "A delicious International dessert dish that's perfect for any occasion.",
+    "ingredients": [
+      "flour",
+      "sugar",
+      "cocoa powder",
+      "eggs",
+      "butter",
+      "milk",
+      "baking powder"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 60,
+    "total_time_minutes": 80,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 416,
+      "protein_g": 6.8,
+      "carbohydrates_g": 45.5,
+      "fat_g": 23.5,
+      "fiber_g": 4.6,
+      "sugar_g": 13.7,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": false
+    },
+    "tags": [
+      "Dessert",
+      "dessert",
+      "International"
+    ],
+    "popularity_score": 0.89,
+    "spice_level": 0,
+    "best_season": "Summer"
+  },
+  "chocolate_mousse": {
+    "dish_id": "chocolate_mousse",
+    "dish_name": "Chocolate Mousse",
+    "cuisine": "International",
+    "dish_type": "dessert",
+    "description": "Authentic International dessert that will transport your taste buds.",
+    "ingredients": [
+      "flour",
+      "sugar",
+      "butter",
+      "eggs",
+      "vanilla",
+      "cheese",
+      "garlic",
+      "lime",
+      "spices"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 60,
+    "total_time_minutes": 80,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 544,
+      "protein_g": 13.8,
+      "carbohydrates_g": 52.9,
+      "fat_g": 31.6,
+      "fiber_g": 5.3,
+      "sugar_g": 15.9,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": false
+    },
+    "tags": [
+      "Dessert",
+      "dessert",
+      "International"
+    ],
+    "popularity_score": 0.68,
+    "spice_level": 0,
+    "best_season": "Autumn"
+  },
+  "churros": {
+    "dish_id": "churros",
+    "dish_name": "Churros",
+    "cuisine": "Spanish",
+    "dish_type": "main",
+    "description": "Traditional Spanish main made with authentic ingredients and flavors.",
+    "ingredients": [
+      "flour",
+      "water",
+      "butter",
+      "sugar",
+      "cinnamon",
+      "oil"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 588,
+      "protein_g": 2.7,
+      "carbohydrates_g": 44.0,
+      "fat_g": 45.5,
+      "fiber_g": 4.4,
+      "sugar_g": 13.2,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": false
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "Spanish"
+    ],
+    "popularity_score": 0.71,
+    "spice_level": 1,
+    "best_season": "Summer"
+  },
+  "clam_chowder": {
+    "dish_id": "clam_chowder",
+    "dish_name": "Clam Chowder",
+    "cuisine": "International",
+    "dish_type": "soup",
+    "description": "A delicious International soup dish that's perfect for any occasion.",
+    "ingredients": [
+      "broth",
+      "vegetables",
+      "herbs",
+      "salt",
+      "pepper",
+      "tomato",
+      "lime",
+      "cream"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 91,
+      "protein_g": 0.8,
+      "carbohydrates_g": 1.7,
+      "fat_g": 9.3,
+      "fiber_g": 0.2,
+      "sugar_g": 0.5,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "soup",
+      "International"
+    ],
+    "popularity_score": 0.6,
+    "spice_level": 1,
+    "best_season": "Summer"
+  },
+  "club_sandwich": {
+    "dish_id": "club_sandwich",
+    "dish_name": "Club Sandwich",
+    "cuisine": "International",
+    "dish_type": "sandwich",
+    "description": "Authentic International sandwich that will transport your taste buds.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "tomato",
+      "spices"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 226,
+      "protein_g": 0.2,
+      "carbohydrates_g": 1.0,
+      "fat_g": 25.1,
+      "fiber_g": 0.1,
+      "sugar_g": 0.3,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": true,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "sandwich",
+      "International"
+    ],
+    "popularity_score": 0.89,
+    "spice_level": 1,
+    "best_season": "Autumn"
+  },
+  "crab_cakes": {
+    "dish_id": "crab_cakes",
+    "dish_name": "Crab Cakes",
+    "cuisine": "International",
+    "dish_type": "dessert",
+    "description": "Classic dessert recipe from International with a modern twist.",
+    "ingredients": [
+      "crab meat",
+      "breadcrumbs",
+      "egg",
+      "mayonnaise",
+      "mustard",
+      "old bay seasoning"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 60,
+    "total_time_minutes": 80,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 105,
+      "protein_g": 5.5,
+      "carbohydrates_g": 12.5,
+      "fat_g": 3.5,
+      "fiber_g": 1.3,
+      "sugar_g": 3.8,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": false,
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Dessert",
+      "dessert",
+      "International"
+    ],
+    "popularity_score": 0.95,
+    "spice_level": 1,
+    "best_season": "Autumn"
+  },
+  "creme_brulee": {
+    "dish_id": "creme_brulee",
+    "dish_name": "Creme Brulee",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "A delicious International main dish that's perfect for any occasion.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "cream",
+      "garlic",
+      "spices"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 344,
+      "protein_g": 2.1,
+      "carbohydrates_g": 8.9,
+      "fat_g": 34.4,
+      "fiber_g": 0.9,
+      "sugar_g": 2.7,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.71,
+    "spice_level": 0,
+    "best_season": "Summer"
+  },
+  "croque_madame": {
+    "dish_id": "croque_madame",
+    "dish_name": "Croque Madame",
+    "cuisine": "French",
+    "dish_type": "main",
+    "description": "Hearty French main that's both comforting and flavorful.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "cheese",
+      "tomato"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 326,
+      "protein_g": 6.5,
+      "carbohydrates_g": 1.3,
+      "fat_g": 33.3,
+      "fiber_g": 0.1,
+      "sugar_g": 0.4,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "French"
+    ],
+    "popularity_score": 0.62,
+    "spice_level": 1,
+    "best_season": "Winter"
+  },
+  "cup_cakes": {
+    "dish_id": "cup_cakes",
+    "dish_name": "Cup Cakes",
+    "cuisine": "International",
+    "dish_type": "dessert",
+    "description": "Popular dessert from International cuisine, known for its rich taste and aroma.",
+    "ingredients": [
+      "flour",
+      "sugar",
+      "butter",
+      "eggs",
+      "milk",
+      "vanilla",
+      "baking powder"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 60,
+    "total_time_minutes": 80,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 416,
+      "protein_g": 6.8,
+      "carbohydrates_g": 45.5,
+      "fat_g": 23.5,
+      "fiber_g": 4.6,
+      "sugar_g": 13.7,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": false
+    },
+    "tags": [
+      "Dessert",
+      "dessert",
+      "International"
+    ],
+    "popularity_score": 0.77,
+    "spice_level": 0,
+    "best_season": "Summer"
+  },
+  "deviled_eggs": {
+    "dish_id": "deviled_eggs",
+    "dish_name": "Deviled Eggs",
+    "cuisine": "International",
+    "dish_type": "breakfast",
+    "description": "Authentic International breakfast that will transport your taste buds.",
+    "ingredients": [
+      "eggs",
+      "butter",
+      "salt",
+      "pepper",
+      "bread",
+      "spices",
+      "butter",
+      "cream",
+      "lemon"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 550,
+      "protein_g": 6.5,
+      "carbohydrates_g": 13.3,
+      "fat_g": 53.3,
+      "fiber_g": 1.3,
+      "sugar_g": 4.0,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Breakfast",
+      "breakfast",
+      "International"
+    ],
+    "popularity_score": 0.66,
+    "spice_level": 1,
+    "best_season": "Autumn"
+  },
+  "donuts": {
+    "dish_id": "donuts",
+    "dish_name": "Donuts",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Popular main from International cuisine, known for its rich taste and aroma.",
+    "ingredients": [
+      "flour",
+      "sugar",
+      "yeast",
+      "milk",
+      "butter",
+      "oil"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 598,
+      "protein_g": 3.6,
+      "carbohydrates_g": 45.3,
+      "fat_g": 45.8,
+      "fiber_g": 4.5,
+      "sugar_g": 13.6,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": false
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.74,
+    "spice_level": 0,
+    "best_season": "Spring"
+  },
+  "dumplings": {
+    "dish_id": "dumplings",
+    "dish_name": "Dumplings",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "A delicious International main dish that's perfect for any occasion.",
+    "ingredients": [
+      "dumpling wrappers",
+      "pork",
+      "cabbage",
+      "ginger",
+      "garlic",
+      "soy sauce"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 98,
+      "protein_g": 7.8,
+      "carbohydrates_g": 8.2,
+      "fat_g": 3.6,
+      "fiber_g": 0.8,
+      "sugar_g": 2.5,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": false,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "Pork",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.76,
+    "spice_level": 0,
+    "best_season": "Winter"
+  },
+  "edamame": {
+    "dish_id": "edamame",
+    "dish_name": "Edamame",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Traditional International main made with authentic ingredients and flavors.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "cheese",
+      "tomato",
+      "lemon",
+      "herbs"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 326,
+      "protein_g": 6.5,
+      "carbohydrates_g": 1.3,
+      "fat_g": 33.3,
+      "fiber_g": 0.1,
+      "sugar_g": 0.4,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.76,
+    "spice_level": 1,
+    "best_season": "Spring"
+  },
+  "eggs_benedict": {
+    "dish_id": "eggs_benedict",
+    "dish_name": "Eggs Benedict",
+    "cuisine": "International",
+    "dish_type": "breakfast",
+    "description": "Hearty International breakfast that's both comforting and flavorful.",
+    "ingredients": [
+      "eggs",
+      "butter",
+      "salt",
+      "pepper",
+      "bread",
+      "spices",
+      "cream"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 370,
+      "protein_g": 6.2,
+      "carbohydrates_g": 13.2,
+      "fat_g": 33.0,
+      "fiber_g": 1.3,
+      "sugar_g": 4.0,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Breakfast",
+      "breakfast",
+      "International"
+    ],
+    "popularity_score": 0.74,
+    "spice_level": 1,
+    "best_season": "Spring"
+  },
+  "escargots": {
+    "dish_id": "escargots",
+    "dish_name": "Escargots",
+    "cuisine": "French",
+    "dish_type": "main",
+    "description": "Classic main recipe from French with a modern twist.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "lemon",
+      "tomato"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 226,
+      "protein_g": 0.2,
+      "carbohydrates_g": 1.0,
+      "fat_g": 25.1,
+      "fiber_g": 0.1,
+      "sugar_g": 0.3,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": true,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "French"
+    ],
+    "popularity_score": 0.92,
+    "spice_level": 0,
+    "best_season": "Spring"
+  },
+  "falafel": {
+    "dish_id": "falafel",
+    "dish_name": "Falafel",
+    "cuisine": "Middle Eastern",
+    "dish_type": "main",
+    "description": "Hearty Middle Eastern main that's both comforting and flavorful.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "herbs",
+      "tomato",
+      "butter"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 405,
+      "protein_g": 0.5,
+      "carbohydrates_g": 1.0,
+      "fat_g": 45.3,
+      "fiber_g": 0.1,
+      "sugar_g": 0.3,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "Middle Eastern"
+    ],
+    "popularity_score": 0.77,
+    "spice_level": 0,
+    "best_season": "Spring"
+  },
+  "filet_mignon": {
+    "dish_id": "filet_mignon",
+    "dish_name": "Filet Mignon",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Traditional International main made with authentic ingredients and flavors.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "spices",
+      "butter"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 400,
+      "protein_g": 0.2,
+      "carbohydrates_g": 0.0,
+      "fat_g": 45.2,
+      "fiber_g": 0.0,
+      "sugar_g": 0.0,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.84,
+    "spice_level": 1,
+    "best_season": "Winter"
+  },
+  "fish_and_chips": {
+    "dish_id": "fish_and_chips",
+    "dish_name": "Fish And Chips",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "A delicious International main dish that's perfect for any occasion.",
+    "ingredients": [
+      "fish fillets",
+      "potatoes",
+      "flour",
+      "beer",
+      "oil",
+      "salt"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 383,
+      "protein_g": 8.5,
+      "carbohydrates_g": 23.2,
+      "fat_g": 28.5,
+      "fiber_g": 2.3,
+      "sugar_g": 7.0,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": false,
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "Fish",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.9,
+    "spice_level": 0,
+    "best_season": "Summer"
+  },
+  "foie_gras": {
+    "dish_id": "foie_gras",
+    "dish_name": "Foie Gras",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Authentic International main that will transport your taste buds.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "lime",
+      "cream",
+      "lemon",
+      "tomato"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 312,
+      "protein_g": 0.8,
+      "carbohydrates_g": 1.7,
+      "fat_g": 34.3,
+      "fiber_g": 0.2,
+      "sugar_g": 0.5,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.65,
+    "spice_level": 0,
+    "best_season": "Summer"
+  },
+  "french_fries": {
+    "dish_id": "french_fries",
+    "dish_name": "French Fries",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Hearty International main that's both comforting and flavorful.",
+    "ingredients": [
+      "potatoes",
+      "oil",
+      "salt"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 240,
+      "protein_g": 0.5,
+      "carbohydrates_g": 4.2,
+      "fat_g": 25.0,
+      "fiber_g": 0.4,
+      "sugar_g": 1.3,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": true,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.68,
+    "spice_level": 1,
+    "best_season": "Winter"
+  },
+  "french_onion_soup": {
+    "dish_id": "french_onion_soup",
+    "dish_name": "French Onion Soup",
+    "cuisine": "International",
+    "dish_type": "soup",
+    "description": "Authentic International soup that will transport your taste buds.",
+    "ingredients": [
+      "broth",
+      "vegetables",
+      "herbs",
+      "salt",
+      "pepper",
+      "cheese",
+      "tomato"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 105,
+      "protein_g": 6.5,
+      "carbohydrates_g": 1.3,
+      "fat_g": 8.3,
+      "fiber_g": 0.1,
+      "sugar_g": 0.4,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "soup",
+      "International"
+    ],
+    "popularity_score": 0.66,
+    "spice_level": 1,
+    "best_season": "Winter"
+  },
+  "french_toast": {
+    "dish_id": "french_toast",
+    "dish_name": "French Toast",
+    "cuisine": "International",
+    "dish_type": "breakfast",
+    "description": "A delicious International breakfast dish that's perfect for any occasion.",
+    "ingredients": [
+      "bread",
+      "eggs",
+      "milk",
+      "cinnamon",
+      "vanilla",
+      "butter"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 295,
+      "protein_g": 6.6,
+      "carbohydrates_g": 13.8,
+      "fat_g": 24.1,
+      "fiber_g": 1.4,
+      "sugar_g": 4.1,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Breakfast",
+      "breakfast",
+      "International"
+    ],
+    "popularity_score": 0.61,
+    "spice_level": 0,
+    "best_season": "Summer"
+  },
+  "fried_calamari": {
+    "dish_id": "fried_calamari",
+    "dish_name": "Fried Calamari",
+    "cuisine": "International",
+    "dish_type": "fried",
+    "description": "Hearty International fried that's both comforting and flavorful.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "cheese",
+      "tomato",
+      "herbs",
+      "butter"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 11,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 46,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 505,
+      "protein_g": 6.7,
+      "carbohydrates_g": 1.3,
+      "fat_g": 53.5,
+      "fiber_g": 0.1,
+      "sugar_g": 0.4,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "fried",
+      "Main Course",
+      "Fried",
+      "International"
+    ],
+    "popularity_score": 0.9,
+    "spice_level": 0,
+    "best_season": "Summer"
+  },
+  "frozen_yogurt": {
+    "dish_id": "frozen_yogurt",
+    "dish_name": "Frozen Yogurt",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Traditional International main made with authentic ingredients and flavors.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "onion",
+      "butter"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 410,
+      "protein_g": 0.5,
+      "carbohydrates_g": 2.4,
+      "fat_g": 45.3,
+      "fiber_g": 0.2,
+      "sugar_g": 0.7,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.89,
+    "spice_level": 1,
+    "best_season": "Summer"
+  },
+  "garlic_bread": {
+    "dish_id": "garlic_bread",
+    "dish_name": "Garlic Bread",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Authentic International main that will transport your taste buds.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "lime",
+      "cheese",
+      "onion"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 332,
+      "protein_g": 6.5,
+      "carbohydrates_g": 2.7,
+      "fat_g": 33.3,
+      "fiber_g": 0.3,
+      "sugar_g": 0.8,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.69,
+    "spice_level": 1,
+    "best_season": "Winter"
+  },
+  "gnocchi": {
+    "dish_id": "gnocchi",
+    "dish_name": "Gnocchi",
+    "cuisine": "International",
+    "dish_type": "pasta",
+    "description": "Hearty International pasta that's both comforting and flavorful.",
+    "ingredients": [
+      "pasta",
+      "tomato sauce",
+      "garlic",
+      "olive oil",
+      "basil",
+      "butter",
+      "lime"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 475,
+      "protein_g": 3.3,
+      "carbohydrates_g": 15.5,
+      "fat_g": 45.7,
+      "fiber_g": 1.6,
+      "sugar_g": 4.6,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "pasta",
+      "International"
+    ],
+    "popularity_score": 0.76,
+    "spice_level": 1,
+    "best_season": "Spring"
+  },
+  "greek_salad": {
+    "dish_id": "greek_salad",
+    "dish_name": "Greek Salad",
+    "cuisine": "International",
+    "dish_type": "salad",
+    "description": "A delicious International salad dish that's perfect for any occasion.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "onion",
+      "butter",
+      "cream"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 496,
+      "protein_g": 1.0,
+      "carbohydrates_g": 3.0,
+      "fat_g": 54.5,
+      "fiber_g": 0.3,
+      "sugar_g": 0.9,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "salad",
+      "International"
+    ],
+    "popularity_score": 0.93,
+    "spice_level": 0,
+    "best_season": "Summer"
+  },
+  "grilled_cheese_sandwich": {
+    "dish_id": "grilled_cheese_sandwich",
+    "dish_name": "Grilled Cheese Sandwich",
+    "cuisine": "International",
+    "dish_type": "sandwich",
+    "description": "A delicious International sandwich dish that's perfect for any occasion.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "lime",
+      "spices",
+      "cream",
+      "garlic"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 344,
+      "protein_g": 2.1,
+      "carbohydrates_g": 8.9,
+      "fat_g": 34.4,
+      "fiber_g": 0.9,
+      "sugar_g": 2.7,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "Grilled",
+      "sandwich",
+      "International"
+    ],
+    "popularity_score": 0.94,
+    "spice_level": 0,
+    "best_season": "Summer"
+  },
+  "grilled_salmon": {
+    "dish_id": "grilled_salmon",
+    "dish_name": "Grilled Salmon",
+    "cuisine": "International",
+    "dish_type": "grilled",
+    "description": "Traditional International grilled made with authentic ingredients and flavors.",
+    "ingredients": [
+      "salmon fillets",
+      "lemon",
+      "dill",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 11,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 46,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 221,
+      "protein_g": 0.0,
+      "carbohydrates_g": 0.0,
+      "fat_g": 25.0,
+      "fiber_g": 0.0,
+      "sugar_g": 0.0,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": true,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "grilled",
+      "Grilled",
+      "Main Course",
+      "International"
+    ],
+    "popularity_score": 0.76,
+    "spice_level": 0,
+    "best_season": "Winter"
+  },
+  "guacamole": {
+    "dish_id": "guacamole",
+    "dish_name": "Guacamole",
+    "cuisine": "Mexican",
+    "dish_type": "main",
+    "description": "Traditional Mexican main made with authentic ingredients and flavors.",
+    "ingredients": [
+      "avocados",
+      "onion",
+      "tomato",
+      "lime juice",
+      "cilantro",
+      "jalapeno",
+      "salt"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 54,
+      "protein_g": 1.0,
+      "carbohydrates_g": 5.5,
+      "fat_g": 3.8,
+      "fiber_g": 0.6,
+      "sugar_g": 1.7,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": true,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "Mexican",
+      "main"
+    ],
+    "popularity_score": 0.8,
+    "spice_level": 1,
+    "best_season": "Summer"
+  },
+  "gyoza": {
+    "dish_id": "gyoza",
+    "dish_name": "Gyoza",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "A delicious International main dish that's perfect for any occasion.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "butter",
+      "cream"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 486,
+      "protein_g": 0.8,
+      "carbohydrates_g": 0.7,
+      "fat_g": 54.5,
+      "fiber_g": 0.1,
+      "sugar_g": 0.2,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.6,
+    "spice_level": 0,
+    "best_season": "Autumn"
+  },
+  "hamburger": {
+    "dish_id": "hamburger",
+    "dish_name": "Hamburger",
+    "cuisine": "American",
+    "dish_type": "sandwich",
+    "description": "A delicious American sandwich dish that's perfect for any occasion.",
+    "ingredients": [
+      "beef patty",
+      "burger bun",
+      "lettuce",
+      "tomato",
+      "onion",
+      "cheese",
+      "ketchup",
+      "mustard"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 181,
+      "protein_g": 13.6,
+      "carbohydrates_g": 4.4,
+      "fat_g": 12.6,
+      "fiber_g": 0.4,
+      "sugar_g": 1.3,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": false,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "American",
+      "Main Course",
+      "Beef",
+      "sandwich"
+    ],
+    "popularity_score": 0.84,
+    "spice_level": 1,
+    "best_season": "Summer"
+  },
+  "hot_and_sour_soup": {
+    "dish_id": "hot_and_sour_soup",
+    "dish_name": "Hot And Sour Soup",
+    "cuisine": "International",
+    "dish_type": "soup",
+    "description": "Authentic International soup that will transport your taste buds.",
+    "ingredients": [
+      "broth",
+      "vegetables",
+      "herbs",
+      "salt",
+      "pepper",
+      "cream",
+      "lime",
+      "lemon"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 86,
+      "protein_g": 0.5,
+      "carbohydrates_g": 0.7,
+      "fat_g": 9.2,
+      "fiber_g": 0.1,
+      "sugar_g": 0.2,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "soup",
+      "International"
+    ],
+    "popularity_score": 0.68,
+    "spice_level": 3,
+    "best_season": "Winter"
+  },
+  "hot_dog": {
+    "dish_id": "hot_dog",
+    "dish_name": "Hot Dog",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Traditional International main made with authentic ingredients and flavors.",
+    "ingredients": [
+      "sausage",
+      "hot dog bun",
+      "mustard",
+      "ketchup",
+      "relish",
+      "onions"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 10,
+      "protein_g": 0.3,
+      "carbohydrates_g": 2.3,
+      "fat_g": 0.0,
+      "fiber_g": 0.2,
+      "sugar_g": 0.7,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": true,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.69,
+    "spice_level": 4,
+    "best_season": "Winter"
+  },
+  "huevos_rancheros": {
+    "dish_id": "huevos_rancheros",
+    "dish_name": "Huevos Rancheros",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Authentic International main that will transport your taste buds.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "lime",
+      "herbs",
+      "onion",
+      "cheese"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 332,
+      "protein_g": 6.5,
+      "carbohydrates_g": 2.7,
+      "fat_g": 33.3,
+      "fiber_g": 0.3,
+      "sugar_g": 0.8,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.82,
+    "spice_level": 0,
+    "best_season": "Summer"
+  },
+  "hummus": {
+    "dish_id": "hummus",
+    "dish_name": "Hummus",
+    "cuisine": "Middle Eastern",
+    "dish_type": "main",
+    "description": "Hearty Middle Eastern main that's both comforting and flavorful.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "spices",
+      "tomato",
+      "onion"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 236,
+      "protein_g": 0.5,
+      "carbohydrates_g": 3.3,
+      "fat_g": 25.1,
+      "fiber_g": 0.3,
+      "sugar_g": 1.0,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": true,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "Middle Eastern"
+    ],
+    "popularity_score": 0.69,
+    "spice_level": 1,
+    "best_season": "Summer"
+  },
+  "ice_cream": {
+    "dish_id": "ice_cream",
+    "dish_name": "Ice Cream",
+    "cuisine": "International",
+    "dish_type": "dessert",
+    "description": "Classic dessert recipe from International with a modern twist.",
+    "ingredients": [
+      "cream",
+      "milk",
+      "sugar",
+      "egg yolks",
+      "vanilla"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 60,
+    "total_time_minutes": 80,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 232,
+      "protein_g": 4.6,
+      "carbohydrates_g": 27.2,
+      "fat_g": 12.2,
+      "fiber_g": 2.7,
+      "sugar_g": 8.2,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Dessert",
+      "dessert",
+      "International"
+    ],
+    "popularity_score": 0.7,
+    "spice_level": 0,
+    "best_season": "Summer"
+  },
+  "lasagna": {
+    "dish_id": "lasagna",
+    "dish_name": "Lasagna",
+    "cuisine": "Italian",
+    "dish_type": "pasta",
+    "description": "Hearty Italian pasta that's both comforting and flavorful.",
+    "ingredients": [
+      "lasagna noodles",
+      "ground beef",
+      "ricotta cheese",
+      "mozzarella",
+      "tomato sauce",
+      "parmesan"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 168,
+      "protein_g": 13.0,
+      "carbohydrates_g": 1.3,
+      "fat_g": 12.6,
+      "fiber_g": 0.1,
+      "sugar_g": 0.4,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": false,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Beef",
+      "Main Course",
+      "pasta",
+      "Italian"
+    ],
+    "popularity_score": 0.91,
+    "spice_level": 0,
+    "best_season": "Summer"
+  },
+  "lobster_bisque": {
+    "dish_id": "lobster_bisque",
+    "dish_name": "Lobster Bisque",
+    "cuisine": "International",
+    "dish_type": "soup",
+    "description": "Hearty International soup that's both comforting and flavorful.",
+    "ingredients": [
+      "broth",
+      "vegetables",
+      "herbs",
+      "salt",
+      "pepper",
+      "onion",
+      "lime"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 10,
+      "protein_g": 0.3,
+      "carbohydrates_g": 2.3,
+      "fat_g": 0.0,
+      "fiber_g": 0.2,
+      "sugar_g": 0.7,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": true,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "soup",
+      "International"
+    ],
+    "popularity_score": 0.74,
+    "spice_level": 0,
+    "best_season": "Autumn"
+  },
+  "lobster_roll_sandwich": {
+    "dish_id": "lobster_roll_sandwich",
+    "dish_name": "Lobster Roll Sandwich",
+    "cuisine": "International",
+    "dish_type": "sandwich",
+    "description": "A delicious International sandwich dish that's perfect for any occasion.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "lime",
+      "lemon"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 221,
+      "protein_g": 0.0,
+      "carbohydrates_g": 0.0,
+      "fat_g": 25.0,
+      "fiber_g": 0.0,
+      "sugar_g": 0.0,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": true,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "sandwich",
+      "International"
+    ],
+    "popularity_score": 0.92,
+    "spice_level": 1,
+    "best_season": "Spring"
+  },
+  "macaroni_and_cheese": {
+    "dish_id": "macaroni_and_cheese",
+    "dish_name": "Macaroni And Cheese",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Traditional International main made with authentic ingredients and flavors.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "butter",
+      "garlic",
+      "lemon",
+      "tomato"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 442,
+      "protein_g": 2.1,
+      "carbohydrates_g": 9.2,
+      "fat_g": 45.4,
+      "fiber_g": 0.9,
+      "sugar_g": 2.8,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.81,
+    "spice_level": 0,
+    "best_season": "Winter"
+  },
+  "macarons": {
+    "dish_id": "macarons",
+    "dish_name": "Macarons",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Authentic International main that will transport your taste buds.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "onion",
+      "cream",
+      "lemon"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 317,
+      "protein_g": 0.8,
+      "carbohydrates_g": 3.0,
+      "fat_g": 34.3,
+      "fiber_g": 0.3,
+      "sugar_g": 0.9,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.95,
+    "spice_level": 1,
+    "best_season": "Winter"
+  },
+  "miso_soup": {
+    "dish_id": "miso_soup",
+    "dish_name": "Miso Soup",
+    "cuisine": "Japanese",
+    "dish_type": "soup",
+    "description": "Hearty Japanese soup that's both comforting and flavorful.",
+    "ingredients": [
+      "broth",
+      "vegetables",
+      "herbs",
+      "salt",
+      "pepper",
+      "butter",
+      "herbs",
+      "cream",
+      "spices"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 266,
+      "protein_g": 0.8,
+      "carbohydrates_g": 0.7,
+      "fat_g": 29.5,
+      "fiber_g": 0.1,
+      "sugar_g": 0.2,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "soup",
+      "Japanese"
+    ],
+    "popularity_score": 0.67,
+    "spice_level": 1,
+    "best_season": "Winter"
+  },
+  "murgh_curry": {
+    "dish_id": "murgh_curry",
+    "dish_name": "Murgh Curry",
+    "cuisine": "Indian",
+    "dish_type": "main",
+    "description": "Popular main from Indian cuisine, known for its rich taste and aroma.",
+    "ingredients": [
+      "chicken",
+      "onion",
+      "tomato",
+      "yogurt",
+      "cream",
+      "spices"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 157,
+      "protein_g": 9.7,
+      "carbohydrates_g": 4.9,
+      "fat_g": 11.1,
+      "fiber_g": 0.5,
+      "sugar_g": 1.5,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": false,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Chicken",
+      "Main Course",
+      "Indian",
+      "main"
+    ],
+    "popularity_score": 0.66,
+    "spice_level": 3,
+    "best_season": "Spring"
+  },
+  "murgh_quesadilla": {
+    "dish_id": "murgh_quesadilla",
+    "dish_name": "Murgh Quesadilla",
+    "cuisine": "Mexican",
+    "dish_type": "sandwich",
+    "description": "Popular sandwich from Mexican cuisine, known for its rich taste and aroma.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "herbs",
+      "lemon",
+      "spices",
+      "butter"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 400,
+      "protein_g": 0.2,
+      "carbohydrates_g": 0.0,
+      "fat_g": 45.2,
+      "fiber_g": 0.0,
+      "sugar_g": 0.0,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "Mexican",
+      "sandwich"
+    ],
+    "popularity_score": 0.95,
+    "spice_level": 0,
+    "best_season": "Autumn"
+  },
+  "murgh_wings": {
+    "dish_id": "murgh_wings",
+    "dish_name": "Murgh Wings",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Classic main recipe from International with a modern twist.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "cream",
+      "lime",
+      "onion",
+      "butter"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 496,
+      "protein_g": 1.0,
+      "carbohydrates_g": 3.1,
+      "fat_g": 54.5,
+      "fiber_g": 0.3,
+      "sugar_g": 0.9,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.71,
+    "spice_level": 1,
+    "best_season": "Autumn"
+  },
+  "mussels": {
+    "dish_id": "mussels",
+    "dish_name": "Mussels",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Classic main recipe from International with a modern twist.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "cream",
+      "spices"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 307,
+      "protein_g": 0.5,
+      "carbohydrates_g": 0.7,
+      "fat_g": 34.2,
+      "fiber_g": 0.1,
+      "sugar_g": 0.2,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.89,
+    "spice_level": 0,
+    "best_season": "Autumn"
+  },
+  "nachos": {
+    "dish_id": "nachos",
+    "dish_name": "Nachos",
+    "cuisine": "Mexican",
+    "dish_type": "main",
+    "description": "A delicious Mexican main dish that's perfect for any occasion.",
+    "ingredients": [
+      "tortilla chips",
+      "cheese",
+      "jalapenos",
+      "sour cream",
+      "salsa",
+      "guacamole"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 187,
+      "protein_g": 6.8,
+      "carbohydrates_g": 1.0,
+      "fat_g": 17.5,
+      "fiber_g": 0.1,
+      "sugar_g": 0.3,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "Mexican",
+      "main"
+    ],
+    "popularity_score": 0.67,
+    "spice_level": 0,
+    "best_season": "Autumn"
+  },
+  "omelette": {
+    "dish_id": "omelette",
+    "dish_name": "Omelette",
+    "cuisine": "International",
+    "dish_type": "breakfast",
+    "description": "Authentic International breakfast that will transport your taste buds.",
+    "ingredients": [
+      "eggs",
+      "cheese",
+      "milk",
+      "butter",
+      "salt",
+      "pepper",
+      "vegetables"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 329,
+      "protein_g": 10.6,
+      "carbohydrates_g": 1.9,
+      "fat_g": 31.5,
+      "fiber_g": 0.2,
+      "sugar_g": 0.6,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Breakfast",
+      "breakfast",
+      "International"
+    ],
+    "popularity_score": 0.67,
+    "spice_level": 0,
+    "best_season": "Spring"
+  },
+  "onion_rings": {
+    "dish_id": "onion_rings",
+    "dish_name": "Onion Rings",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Classic main recipe from International with a modern twist.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "butter",
+      "tomato",
+      "lime"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 405,
+      "protein_g": 0.5,
+      "carbohydrates_g": 1.0,
+      "fat_g": 45.3,
+      "fiber_g": 0.1,
+      "sugar_g": 0.3,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.7,
+    "spice_level": 0,
+    "best_season": "Summer"
+  },
+  "oysters": {
+    "dish_id": "oysters",
+    "dish_name": "Oysters",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Hearty International main that's both comforting and flavorful.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "garlic",
+      "herbs"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 258,
+      "protein_g": 1.6,
+      "carbohydrates_g": 8.2,
+      "fat_g": 25.1,
+      "fiber_g": 0.8,
+      "sugar_g": 2.5,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": true,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.6,
+    "spice_level": 1,
+    "best_season": "Autumn"
+  },
+  "pad_thai": {
+    "dish_id": "pad_thai",
+    "dish_name": "Pad Thai",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "A delicious International main dish that's perfect for any occasion.",
+    "ingredients": [
+      "rice noodles",
+      "shrimp",
+      "tofu",
+      "bean sprouts",
+      "peanuts",
+      "tamarind paste",
+      "fish sauce"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 128,
+      "protein_g": 14.2,
+      "carbohydrates_g": 7.5,
+      "fat_g": 4.6,
+      "fiber_g": 0.8,
+      "sugar_g": 2.3,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": false,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": false,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "Fish",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.82,
+    "spice_level": 0,
+    "best_season": "Winter"
+  },
+  "paella": {
+    "dish_id": "paella",
+    "dish_name": "Paella",
+    "cuisine": "Spanish",
+    "dish_type": "main",
+    "description": "Classic main recipe from Spanish with a modern twist.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "cheese",
+      "tomato",
+      "spices"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 326,
+      "protein_g": 6.5,
+      "carbohydrates_g": 1.3,
+      "fat_g": 33.3,
+      "fiber_g": 0.1,
+      "sugar_g": 0.4,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "Spanish"
+    ],
+    "popularity_score": 0.75,
+    "spice_level": 1,
+    "best_season": "Summer"
+  },
+  "pancakes": {
+    "dish_id": "pancakes",
+    "dish_name": "Pancakes",
+    "cuisine": "International",
+    "dish_type": "dessert",
+    "description": "Popular dessert from International cuisine, known for its rich taste and aroma.",
+    "ingredients": [
+      "flour",
+      "milk",
+      "eggs",
+      "baking powder",
+      "butter",
+      "maple syrup"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 60,
+    "total_time_minutes": 80,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 320,
+      "protein_g": 6.8,
+      "carbohydrates_g": 20.5,
+      "fat_g": 23.5,
+      "fiber_g": 2.1,
+      "sugar_g": 6.2,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Dessert",
+      "dessert",
+      "International"
+    ],
+    "popularity_score": 0.94,
+    "spice_level": 1,
+    "best_season": "Spring"
+  },
+  "panna_cotta": {
+    "dish_id": "panna_cotta",
+    "dish_name": "Panna Cotta",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Authentic International main that will transport your taste buds.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "herbs",
+      "cheese",
+      "cream",
+      "garlic"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 445,
+      "protein_g": 8.4,
+      "carbohydrates_g": 9.3,
+      "fat_g": 42.6,
+      "fiber_g": 0.9,
+      "sugar_g": 2.8,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.93,
+    "spice_level": 1,
+    "best_season": "Spring"
+  },
+  "peking_duck": {
+    "dish_id": "peking_duck",
+    "dish_name": "Peking Duck",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Authentic International main that will transport your taste buds.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "garlic",
+      "butter",
+      "lime",
+      "lemon"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 438,
+      "protein_g": 1.8,
+      "carbohydrates_g": 8.3,
+      "fat_g": 45.4,
+      "fiber_g": 0.8,
+      "sugar_g": 2.5,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.85,
+    "spice_level": 1,
+    "best_season": "Autumn"
+  },
+  "pho": {
+    "dish_id": "pho",
+    "dish_name": "Pho",
+    "cuisine": "Thai/Vietnamese",
+    "dish_type": "soup",
+    "description": "Classic soup recipe from Thai/Vietnamese with a modern twist.",
+    "ingredients": [
+      "broth",
+      "vegetables",
+      "herbs",
+      "salt",
+      "pepper",
+      "cream",
+      "herbs",
+      "lime"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 86,
+      "protein_g": 0.5,
+      "carbohydrates_g": 0.7,
+      "fat_g": 9.2,
+      "fiber_g": 0.1,
+      "sugar_g": 0.2,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Thai/Vietnamese",
+      "Main Course",
+      "soup"
+    ],
+    "popularity_score": 0.6,
+    "spice_level": 1,
+    "best_season": "Summer"
+  },
+  "pizza": {
+    "dish_id": "pizza",
+    "dish_name": "Pizza",
+    "cuisine": "Italian",
+    "dish_type": "baked",
+    "description": "Traditional Italian baked made with authentic ingredients and flavors.",
+    "ingredients": [
+      "pizza dough",
+      "tomato sauce",
+      "mozzarella cheese",
+      "basil",
+      "olive oil"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 21,
+    "cook_time_minutes": 65,
+    "total_time_minutes": 86,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 326,
+      "protein_g": 6.5,
+      "carbohydrates_g": 1.3,
+      "fat_g": 33.3,
+      "fiber_g": 0.1,
+      "sugar_g": 0.4,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "baked",
+      "Italian"
+    ],
+    "popularity_score": 0.82,
+    "spice_level": 0,
+    "best_season": "Summer"
+  },
+  "pork_chop": {
+    "dish_id": "pork_chop",
+    "dish_name": "Pork Chop",
+    "cuisine": "International",
+    "dish_type": "grilled",
+    "description": "Hearty International grilled that's both comforting and flavorful.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "lemon",
+      "spices",
+      "butter",
+      "cheese"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 11,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 46,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 501,
+      "protein_g": 6.5,
+      "carbohydrates_g": 0.4,
+      "fat_g": 53.5,
+      "fiber_g": 0.0,
+      "sugar_g": 0.1,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "grilled",
+      "Main Course",
+      "International"
+    ],
+    "popularity_score": 0.76,
+    "spice_level": 1,
+    "best_season": "Summer"
+  },
+  "poutine": {
+    "dish_id": "poutine",
+    "dish_name": "Poutine",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "A delicious International main dish that's perfect for any occasion.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "lemon",
+      "tomato",
+      "spices",
+      "cheese"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 326,
+      "protein_g": 6.5,
+      "carbohydrates_g": 1.3,
+      "fat_g": 33.3,
+      "fiber_g": 0.1,
+      "sugar_g": 0.4,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.84,
+    "spice_level": 1,
+    "best_season": "Winter"
+  },
+  "prime_rib": {
+    "dish_id": "prime_rib",
+    "dish_name": "Prime Rib",
+    "cuisine": "International",
+    "dish_type": "grilled",
+    "description": "Hearty International grilled that's both comforting and flavorful.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "butter",
+      "cheese",
+      "onion",
+      "spices"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 11,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 46,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 511,
+      "protein_g": 6.8,
+      "carbohydrates_g": 2.7,
+      "fat_g": 53.5,
+      "fiber_g": 0.3,
+      "sugar_g": 0.8,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "grilled",
+      "Main Course",
+      "International"
+    ],
+    "popularity_score": 0.61,
+    "spice_level": 0,
+    "best_season": "Autumn"
+  },
+  "pulled_pork_sandwich": {
+    "dish_id": "pulled_pork_sandwich",
+    "dish_name": "Pulled Pork Sandwich",
+    "cuisine": "International",
+    "dish_type": "sandwich",
+    "description": "Hearty International sandwich that's both comforting and flavorful.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "herbs",
+      "tomato",
+      "lemon"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 226,
+      "protein_g": 0.2,
+      "carbohydrates_g": 1.0,
+      "fat_g": 25.1,
+      "fiber_g": 0.1,
+      "sugar_g": 0.3,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": true,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "sandwich",
+      "International"
+    ],
+    "popularity_score": 0.94,
+    "spice_level": 1,
+    "best_season": "Summer"
+  },
+  "ramen": {
+    "dish_id": "ramen",
+    "dish_name": "Ramen",
+    "cuisine": "Japanese",
+    "dish_type": "main",
+    "description": "Hearty Japanese main that's both comforting and flavorful.",
+    "ingredients": [
+      "ramen noodles",
+      "broth",
+      "pork",
+      "egg",
+      "green onions",
+      "nori",
+      "bamboo shoots"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 109,
+      "protein_g": 9.8,
+      "carbohydrates_g": 2.6,
+      "fat_g": 6.3,
+      "fiber_g": 0.3,
+      "sugar_g": 0.8,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": false,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "Japanese",
+      "main",
+      "Pork"
+    ],
+    "popularity_score": 0.79,
+    "spice_level": 0,
+    "best_season": "Spring"
+  },
+  "ravioli": {
+    "dish_id": "ravioli",
+    "dish_name": "Ravioli",
+    "cuisine": "International",
+    "dish_type": "pasta",
+    "description": "Hearty International pasta that's both comforting and flavorful.",
+    "ingredients": [
+      "pasta",
+      "tomato sauce",
+      "garlic",
+      "olive oil",
+      "basil",
+      "spices",
+      "lemon",
+      "butter"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 475,
+      "protein_g": 3.3,
+      "carbohydrates_g": 15.5,
+      "fat_g": 45.7,
+      "fiber_g": 1.6,
+      "sugar_g": 4.6,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "pasta",
+      "International"
+    ],
+    "popularity_score": 0.83,
+    "spice_level": 1,
+    "best_season": "Summer"
+  },
+  "red_velvet_cake": {
+    "dish_id": "red_velvet_cake",
+    "dish_name": "Red Velvet Cake",
+    "cuisine": "International",
+    "dish_type": "dessert",
+    "description": "Classic dessert recipe from International with a modern twist.",
+    "ingredients": [
+      "flour",
+      "sugar",
+      "butter",
+      "eggs",
+      "vanilla",
+      "butter",
+      "herbs",
+      "tomato"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 60,
+    "total_time_minutes": 80,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 590,
+      "protein_g": 6.4,
+      "carbohydrates_g": 45.3,
+      "fat_g": 43.5,
+      "fiber_g": 4.5,
+      "sugar_g": 13.6,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": false
+    },
+    "tags": [
+      "Dessert",
+      "dessert",
+      "International"
+    ],
+    "popularity_score": 0.72,
+    "spice_level": 1,
+    "best_season": "Spring"
+  },
+  "risotto": {
+    "dish_id": "risotto",
+    "dish_name": "Risotto",
+    "cuisine": "Italian",
+    "dish_type": "main",
+    "description": "A delicious Italian main dish that's perfect for any occasion.",
+    "ingredients": [
+      "arborio rice",
+      "chicken broth",
+      "parmesan",
+      "white wine",
+      "onion",
+      "butter"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 263,
+      "protein_g": 8.9,
+      "carbohydrates_g": 9.3,
+      "fat_g": 21.2,
+      "fiber_g": 0.9,
+      "sugar_g": 2.8,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": false,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Chicken",
+      "Main Course",
+      "Italian",
+      "main"
+    ],
+    "popularity_score": 0.65,
+    "spice_level": 1,
+    "best_season": "Autumn"
+  },
+  "samosa": {
+    "dish_id": "samosa",
+    "dish_name": "Samosa",
+    "cuisine": "Indian",
+    "dish_type": "appetizer",
+    "description": "Hearty Indian appetizer that's both comforting and flavorful.",
+    "ingredients": [
+      "potatoes",
+      "peas",
+      "flour",
+      "spices",
+      "oil"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 331,
+      "protein_g": 3.0,
+      "carbohydrates_g": 23.2,
+      "fat_g": 25.3,
+      "fiber_g": 2.3,
+      "sugar_g": 7.0,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": true,
+      "gluten_free": false,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "Indian",
+      "appetizer"
+    ],
+    "popularity_score": 0.8,
+    "spice_level": 1,
+    "best_season": "Autumn"
+  },
+  "sashimi": {
+    "dish_id": "sashimi",
+    "dish_name": "Sashimi",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Classic main recipe from International with a modern twist.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "spices",
+      "cheese"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 322,
+      "protein_g": 6.2,
+      "carbohydrates_g": 0.3,
+      "fat_g": 33.2,
+      "fiber_g": 0.0,
+      "sugar_g": 0.1,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.89,
+    "spice_level": 0,
+    "best_season": "Autumn"
+  },
+  "scallops": {
+    "dish_id": "scallops",
+    "dish_name": "Scallops",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Classic main recipe from International with a modern twist.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "garlic",
+      "cheese",
+      "spices",
+      "lemon"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 359,
+      "protein_g": 7.8,
+      "carbohydrates_g": 8.6,
+      "fat_g": 33.4,
+      "fiber_g": 0.9,
+      "sugar_g": 2.6,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.82,
+    "spice_level": 1,
+    "best_season": "Autumn"
+  },
+  "seaweed_salad": {
+    "dish_id": "seaweed_salad",
+    "dish_name": "Seaweed Salad",
+    "cuisine": "International",
+    "dish_type": "salad",
+    "description": "Popular salad from International cuisine, known for its rich taste and aroma.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "herbs",
+      "cheese",
+      "lime"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 322,
+      "protein_g": 6.2,
+      "carbohydrates_g": 0.3,
+      "fat_g": 33.2,
+      "fiber_g": 0.0,
+      "sugar_g": 0.1,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "salad",
+      "International"
+    ],
+    "popularity_score": 0.72,
+    "spice_level": 1,
+    "best_season": "Summer"
+  },
+  "shrimp_and_grits": {
+    "dish_id": "shrimp_and_grits",
+    "dish_name": "Shrimp And Grits",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Hearty International main that's both comforting and flavorful.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "lemon",
+      "herbs"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 221,
+      "protein_g": 0.0,
+      "carbohydrates_g": 0.0,
+      "fat_g": 25.0,
+      "fiber_g": 0.0,
+      "sugar_g": 0.0,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": true,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.94,
+    "spice_level": 1,
+    "best_season": "Spring"
+  },
+  "spaghetti_bolognese": {
+    "dish_id": "spaghetti_bolognese",
+    "dish_name": "Spaghetti Bolognese",
+    "cuisine": "International",
+    "dish_type": "pasta",
+    "description": "Classic pasta recipe from International with a modern twist.",
+    "ingredients": [
+      "spaghetti",
+      "ground beef",
+      "tomato sauce",
+      "onion",
+      "garlic",
+      "carrot",
+      "celery"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 114,
+      "protein_g": 8.6,
+      "carbohydrates_g": 11.6,
+      "fat_g": 4.5,
+      "fiber_g": 1.2,
+      "sugar_g": 3.5,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": false,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Beef",
+      "Main Course",
+      "pasta",
+      "International"
+    ],
+    "popularity_score": 0.82,
+    "spice_level": 0,
+    "best_season": "Autumn"
+  },
+  "spaghetti_carbonara": {
+    "dish_id": "spaghetti_carbonara",
+    "dish_name": "Spaghetti Carbonara",
+    "cuisine": "International",
+    "dish_type": "pasta",
+    "description": "Traditional International pasta made with authentic ingredients and flavors.",
+    "ingredients": [
+      "spaghetti",
+      "bacon",
+      "eggs",
+      "parmesan cheese",
+      "black pepper"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 139,
+      "protein_g": 9.5,
+      "carbohydrates_g": 0.6,
+      "fat_g": 11.0,
+      "fiber_g": 0.1,
+      "sugar_g": 0.2,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "pasta",
+      "International"
+    ],
+    "popularity_score": 0.79,
+    "spice_level": 0,
+    "best_season": "Winter"
+  },
+  "spring_rolls": {
+    "dish_id": "spring_rolls",
+    "dish_name": "Spring Rolls",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "A delicious International main dish that's perfect for any occasion.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "lime",
+      "cheese",
+      "garlic",
+      "spices"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 359,
+      "protein_g": 7.8,
+      "carbohydrates_g": 8.6,
+      "fat_g": 33.4,
+      "fiber_g": 0.9,
+      "sugar_g": 2.6,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.78,
+    "spice_level": 1,
+    "best_season": "Winter"
+  },
+  "steak": {
+    "dish_id": "steak",
+    "dish_name": "Steak",
+    "cuisine": "American",
+    "dish_type": "grilled",
+    "description": "Hearty American grilled that's both comforting and flavorful.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "spices",
+      "cream",
+      "tomato",
+      "cheese"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 11,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 46,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 412,
+      "protein_g": 7.0,
+      "carbohydrates_g": 2.0,
+      "fat_g": 42.5,
+      "fiber_g": 0.2,
+      "sugar_g": 0.6,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "American",
+      "grilled",
+      "Main Course"
+    ],
+    "popularity_score": 0.79,
+    "spice_level": 1,
+    "best_season": "Summer"
+  },
+  "strawberry_shortcake": {
+    "dish_id": "strawberry_shortcake",
+    "dish_name": "Strawberry Shortcake",
+    "cuisine": "International",
+    "dish_type": "dessert",
+    "description": "Authentic International dessert that will transport your taste buds.",
+    "ingredients": [
+      "flour",
+      "sugar",
+      "butter",
+      "eggs",
+      "vanilla",
+      "garlic",
+      "spices",
+      "lemon",
+      "herbs"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 60,
+    "total_time_minutes": 80,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 443,
+      "protein_g": 7.6,
+      "carbohydrates_g": 52.5,
+      "fat_g": 23.4,
+      "fiber_g": 5.3,
+      "sugar_g": 15.8,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": false
+    },
+    "tags": [
+      "Dessert",
+      "dessert",
+      "International"
+    ],
+    "popularity_score": 0.73,
+    "spice_level": 1,
+    "best_season": "Spring"
+  },
+  "sushi": {
+    "dish_id": "sushi",
+    "dish_name": "Sushi",
+    "cuisine": "Japanese",
+    "dish_type": "main",
+    "description": "Traditional Japanese main made with authentic ingredients and flavors.",
+    "ingredients": [
+      "sushi rice",
+      "nori seaweed",
+      "fish",
+      "cucumber",
+      "avocado",
+      "soy sauce",
+      "wasabi"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 124,
+      "protein_g": 6.7,
+      "carbohydrates_g": 9.2,
+      "fat_g": 7.1,
+      "fiber_g": 0.9,
+      "sugar_g": 2.8,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": false,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": true,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "Japanese",
+      "Fish",
+      "main"
+    ],
+    "popularity_score": 0.69,
+    "spice_level": 1,
+    "best_season": "Spring"
+  },
+  "tacos": {
+    "dish_id": "tacos",
+    "dish_name": "Tacos",
+    "cuisine": "Mexican",
+    "dish_type": "sandwich",
+    "description": "Traditional Mexican sandwich made with authentic ingredients and flavors.",
+    "ingredients": [
+      "tortillas",
+      "ground beef",
+      "lettuce",
+      "tomato",
+      "cheese",
+      "sour cream",
+      "salsa"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 40,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 258,
+      "protein_g": 13.8,
+      "carbohydrates_g": 2.7,
+      "fat_g": 21.9,
+      "fiber_g": 0.3,
+      "sugar_g": 0.8,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": false,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Beef",
+      "Main Course",
+      "Mexican",
+      "sandwich"
+    ],
+    "popularity_score": 0.87,
+    "spice_level": 1,
+    "best_season": "Summer"
+  },
+  "takoyaki": {
+    "dish_id": "takoyaki",
+    "dish_name": "Takoyaki",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Classic main recipe from International with a modern twist.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "lime",
+      "butter",
+      "cheese"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 501,
+      "protein_g": 6.5,
+      "carbohydrates_g": 0.4,
+      "fat_g": 53.5,
+      "fiber_g": 0.0,
+      "sugar_g": 0.1,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.66,
+    "spice_level": 1,
+    "best_season": "Summer"
+  },
+  "tiramisu": {
+    "dish_id": "tiramisu",
+    "dish_name": "Tiramisu",
+    "cuisine": "Italian",
+    "dish_type": "main",
+    "description": "Classic main recipe from Italian with a modern twist.",
+    "ingredients": [
+      "ladyfingers",
+      "mascarpone cheese",
+      "coffee",
+      "cocoa powder",
+      "eggs",
+      "sugar"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 236,
+      "protein_g": 9.5,
+      "carbohydrates_g": 25.6,
+      "fat_g": 11.0,
+      "fiber_g": 2.6,
+      "sugar_g": 7.7,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "Italian",
+      "main"
+    ],
+    "popularity_score": 0.65,
+    "spice_level": 0,
+    "best_season": "Spring"
+  },
+  "tuna_tartare": {
+    "dish_id": "tuna_tartare",
+    "dish_name": "Tuna Tartare",
+    "cuisine": "International",
+    "dish_type": "main",
+    "description": "Traditional International main made with authentic ingredients and flavors.",
+    "ingredients": [
+      "main ingredient",
+      "seasoning",
+      "oil",
+      "salt",
+      "pepper",
+      "cream",
+      "lime",
+      "garlic"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 344,
+      "protein_g": 2.1,
+      "carbohydrates_g": 8.9,
+      "fat_g": 34.4,
+      "fiber_g": 0.9,
+      "sugar_g": 2.7,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Main Course",
+      "main",
+      "International"
+    ],
+    "popularity_score": 0.64,
+    "spice_level": 0,
+    "best_season": "Autumn"
+  },
+  "waffles": {
+    "dish_id": "waffles",
+    "dish_name": "Waffles",
+    "cuisine": "International",
+    "dish_type": "breakfast",
+    "description": "Hearty International breakfast that's both comforting and flavorful.",
+    "ingredients": [
+      "flour",
+      "eggs",
+      "milk",
+      "butter",
+      "baking powder",
+      "vanilla"
+    ],
+    "servings": 4,
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "difficulty": "Easy",
+    "nutrition_per_serving": {
+      "calories": 320,
+      "protein_g": 6.8,
+      "carbohydrates_g": 20.5,
+      "fat_g": 23.5,
+      "fiber_g": 2.1,
+      "sugar_g": 6.2,
+      "sodium_mg": 450
+    },
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": true,
+      "low_carb": true
+    },
+    "tags": [
+      "Breakfast",
+      "breakfast",
+      "International"
+    ],
+    "popularity_score": 0.75,
+    "spice_level": 1,
+    "best_season": "Summer"
+  }
+}
