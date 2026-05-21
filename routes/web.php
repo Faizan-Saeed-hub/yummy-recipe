@@ -96,3 +96,14 @@ Route::delete('/admin/messages/{id}', [MessagesController::class, 'destroy'])
 Route::post('/api/predict', [PredictionController::class, 'predict'])->name('predict');
 Route::get('/api/model/status', [PredictionController::class, 'modelStatus'])->name('model.status');
 
+// Web Database Migration Route for Vercel/Serverless
+Route::get('/migrate', function () {
+    try {
+        \Illuminate\Support\Facades\Artisan::call('migrate', ['--force' => true, '--seed' => true]);
+        return 'Database migrations and seeders ran successfully! Output: <pre>' . \Illuminate\Support\Facades\Artisan::output() . '</pre>';
+    } catch (\Exception $e) {
+        return 'Error running migrations: ' . $e->getMessage();
+    }
+});
+
+
